@@ -11,7 +11,7 @@
 - 🌱 I’m currently diving deeper into **Distributed Systems & System Design**, while sharpening my skills in **React, Redux, Flask, Django & OpenCV**  
 - 💬 Ask me about **Web Development (MERN/Django), Computer Vision & Cloud Integrations**  
 - 📫 How to reach me: **tchawla827@gmail.com**  
-- 📄 Checkout my [Resume PDF](https://drive.google.com/file/d/1Ge0Pj4S_EXQDFJAKEkMps8XCjWYT5O2L/view?usp=sharing)
+- 📄 Checkout my [Resume PDF](https://drive.google.com/file/d/17nZrFx52kE2puSIfJeAFFxK_51fPdjB2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
