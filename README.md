@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/tavish-chawla-3b1673278/)
 
 <h1 align="center">I’m Tavish Chawla</h1>
-<h3 align="center">Second-Year B.Tech (IT) at IIIT-Allahabad</h3>
+<h3 align="center">Third Year B.Tech (IT) at IIIT-Allahabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
