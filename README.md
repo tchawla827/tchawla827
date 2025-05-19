@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=tchawla827&label=Profile%20views&color=0e75b6&style=flat" alt="tchawla827" />
 </p>
 
-- 🌱 I build **scalable web apps** with React, Redux, Flask & Django; engineer **cloud-native** solutions on Firebase & GCP; and delve into **Distributed Systems**, **Data Structures** & **Software Engineering**  
+- 🌱 I build **scalable web apps** with React, Redux, Flask & Django, and hone my **Data Structures & Algorithms** through competitive coding  
 - 💬 Ask me about:
   - **UrbanCart** (React/Redux + Razorpay) & **FilmFair** (Django + MySQL + Stripe) full-stack platforms  
   - **GateX**: real-time facial recognition & out-pass system with OpenCV & Firebase  
@@ -51,7 +51,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
