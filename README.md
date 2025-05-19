@@ -14,7 +14,7 @@
   - **UrbanCart** (React/Redux + Razorpay) & **FilmFair** (Django + MySQL + Stripe) full-stack platforms  
   - **GateX**: real-time facial recognition & out-pass system with OpenCV & Firebase  
 - 🏆 Competitive programmer (Codeforces 1421 rating, CodeChef 1522, LeetCode 1705; 750+ solves)  
-- 📫 Reach me at **tchawla827@gmail.com**  
+- 📫 Reach me at **tavish.chawla.13@gmail.com**  
 - 📄 Peek my [resume PDF](https://drive.google.com/file/d/17nZrFx52kE2puSIfJeAFFxK_51fPdjB2/view?usp=sharing)
 
 ---
