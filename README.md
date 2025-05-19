@@ -15,13 +15,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/tchawla827" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
+  <a href="https://github.com/tchawla827" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/tavish-chawla-3b1673278/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/tavish-chawla-3b1673278/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/tchawla827" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
+
 
 <h3 align="left">Languages &amp; Tools:</h3>
 <p align="left">
