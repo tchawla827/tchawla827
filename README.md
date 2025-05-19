@@ -1,17 +1,21 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/tavish-chawla-3b1673278/)
+
 <h1 align="center">I’m Tavish Chawla</h1>
 <h3 align="center">Second-Year B.Tech (IT) at IIIT-Allahabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tchawla827&label=Profile%20views&color=0e75b6&style=flat" alt="tchawla827" />
 </p>
 
-- 🌱 I’m currently diving deeper into **Distributed Systems & System Design**, while sharpening my skills in **React, Redux, Flask, Django & OpenCV**  
-- 💬 Ask me about **Web Development (MERN/Django), Computer Vision & Cloud Integrations**  
-- 📫 How to reach me: **tchawla827@gmail.com**  
-- 📄 Checkout my [Resume PDF](https://drive.google.com/file/d/17nZrFx52kE2puSIfJeAFFxK_51fPdjB2/view?usp=sharing)
+- 🌱 I’m building **scalable web apps** with React, Redux, Flask and Django; engineering **cloud-native** solutions on Firebase & GCP; and delving into **Distributed Systems**, **Data Structures** & **Software Engineering** :contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}  
+- 💬 Ask me about:
+  - **UrbanCart** (React/Redux + Razorpay) & **FilmFair** (Django + MySQL + Stripe) full-stack platforms  
+  - **GateX**: real-time facial recognition & out-pass system with OpenCV & Firebase :contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}  
+- 🏆 Competitive programmer (Codeforces 1421 rating, CodeChef 1522, LeetCode 1705; 750+ solves) :contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}  
+- 📫 Reach me at **tchawla827@gmail.com**  
+- 📄 Peek my [resume PDF](https://drive.google.com/file/d/17nZrFx52kE2puSIfJeAFFxK_51fPdjB2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +29,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages &amp; Tools:</h3>
